@@ -1,2 +1,1 @@
-my first readme
-Updated readme file for collaboration
+my first readme file
